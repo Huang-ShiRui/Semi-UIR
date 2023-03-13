@@ -1,8 +1,8 @@
 # Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank (2023 CVPR)
-Shirui Huang+, Keyan Wang+*, Huan Liu, Jun Chen, Yunsong Li
+Shirui Huang*, Keyan Wang*+, Huan Liu, Jun Chen, Yunsong Li
 
-+Equal Contributions
-*Corresponding Author
+*Equal Contributions
++Corresponding Author
 
 Xidian University, McMaster University
 ## Introduction
