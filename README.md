@@ -1,4 +1,4 @@
-# Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank (2023 CVPR)
+# Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank (CVPR 2023)
 Shirui Huang*, Keyan Wang*+, Huan Liu, Jun Chen, Yunsong Li
 
 *Equal Contributions
