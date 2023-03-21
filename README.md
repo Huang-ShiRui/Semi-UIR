@@ -61,12 +61,14 @@ Run `train.py` to start training.
 
 ### Citation
 Our arxiv version:
+```latex
 @article{huang2023contrastive,
   title={Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank},
   author={Huang, Shirui and Wang, Keyan and Liu, Huan and Chen, Jun and Li, Yunsong},
   journal={arXiv preprint arXiv:2303.09101},
   year={2023}
 }
+```
 
 ### Contact
 
