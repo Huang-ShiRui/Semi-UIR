@@ -16,6 +16,7 @@ This is the official repository for our recent paper, "Contrastive Semi-supervis
 - CUDA==11.1
 
 Other dependencies are listed in `requirements.txt`
+We also thanks the repository: [IQA-Pytorch](https://github.com/chaofengc/IQA-PyTorch).
 
 ### Prepare Data
 
@@ -45,7 +46,7 @@ data
         └── LA
 ```
 
-You can download the training set and test sets for our paper [here](). 
+You can download the training set and test sets for our paper [here](https://drive.google.com/drive/folders/1ctTGuAwsGCKReTezJXxnT5-Re9MRseS0?usp=share_link). 
 
 ### Test
 
