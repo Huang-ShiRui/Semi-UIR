@@ -17,7 +17,7 @@ Experimental results on both full-reference and non-reference underwater benchma
 
 <img src='OVERVIEW_HUAN.pdf' width='600' height='400'>
 
-<p align="center">An overview of our approach.r</p>
+<p align="center">Figure 1. An overview of our approach.</p>
 
 ### Dependencies
 
