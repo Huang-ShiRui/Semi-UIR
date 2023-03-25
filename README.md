@@ -15,7 +15,7 @@ In this work, we propose a mean-teacher based **Semi**-supervised **U**nderwater
 To address the above problems, we first introduce a reliable bank to store the ``best-ever" outputs as pseudo ground truth. To assess the quality of outputs, we conduct an empirical analysis based on the monotonicity property to select the most trustworthy NR-IQA method. Besides, in view of the confirmation bias problem, we incorporate contrastive regularization to prevent the overfitting on wrong labels.
 Experimental results on both full-reference and non-reference underwater benchmarks demonstrate that our algorithm has obvious improvement over SOTA methods quantitatively and qualitatively. Code has been released at https://github.com/Huang-ShiRui/Semi-
 
-<img src='OVERVIEW_HUAN.pdf'>
+<img src='overview.png'>
 
 <p align="center">Figure 1. An overview of our approach.</p>
 
