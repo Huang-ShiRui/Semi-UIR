@@ -25,7 +25,7 @@ Despite the remarkable achievement of recent underwater image restoration techni
 Other dependencies are listed in `requirements.txt`
 We also thanks the repository: [IQA-Pytorch](https://github.com/chaofengc/IQA-PyTorch).
 
-## Prepare Data
+## Data Preparation
 
 Run `data_split.py` to randomly split your paired datasets into training, validation and testing set.
 
@@ -68,7 +68,9 @@ To train the framework, run `create_candiate.py` to initialize reliable bank. Hy
 Run `train.py` to start training.
 
 ## Citation
-Our arxiv version:
+If you use the code in this repo for your work, please cite the following bib entries:
+
+### Our arxiv version:
 ```latex
 @article{huang2023contrastive,
   title={Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank},
