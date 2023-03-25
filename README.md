@@ -16,7 +16,7 @@ Despite the remarkable achievement of recent underwater image restoration techni
 
 <p align="center">Figure 1. An overview of our approach.</p>
 
-### Dependencies
+## Dependencies
 
 - Ubuntu==18.04
 - Pytorch==1.8.1
@@ -25,7 +25,7 @@ Despite the remarkable achievement of recent underwater image restoration techni
 Other dependencies are listed in `requirements.txt`
 We also thanks the repository: [IQA-Pytorch](https://github.com/chaofengc/IQA-PyTorch).
 
-### Prepare Data
+## Prepare Data
 
 Run `data_split.py` to randomly split your paired datasets into training, validation and testing set.
 
@@ -55,19 +55,19 @@ data
 
 You can download the training set and test sets for our paper [here](https://drive.google.com/drive/folders/1ctTGuAwsGCKReTezJXxnT5-Re9MRseS0?usp=share_link). 
 
-### Test
+## Test
 
 Put your test benchmark under `data/test` folder, run `estimate_illumination.py` to get its illumination map.
 
 Run `test.py` and you can find results from folder `result`.
 
-### Train
+## Train
 
 To train the framework, run `create_candiate.py` to initialize reliable bank. Hyper-parameters can be modified in `trainer.py`.
 
 Run `train.py` to start training.
 
-### Citation
+## Citation
 Our arxiv version:
 ```latex
 @article{huang2023contrastive,
@@ -78,6 +78,6 @@ Our arxiv version:
 }
 ```
 
-### Contact
+## Contact
 
 If you have any problem with the released code, please do not hesitate to contact us by email (shiruihh@gmail.com).
