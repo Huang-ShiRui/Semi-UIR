@@ -69,12 +69,12 @@ Run `train.py` to start training.
 ## Citation
 If you use the code in this repo for your work, please cite the following bib entries:
 
-### Our arxiv version:
 ```latex
-@article{huang2023contrastive,
+@inproceedings{huang2023contrastive,
   title={Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank},
   author={Huang, Shirui and Wang, Keyan and Liu, Huan and Chen, Jun and Li, Yunsong},
-  journal={arXiv preprint arXiv:2303.09101},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={18145--18155},
   year={2023}
 }
 ```
